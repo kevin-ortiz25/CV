@@ -124,9 +124,13 @@ p {
 @media (max-width: 800px) {
     .contenedor1 {
         padding: 30px 5px;
+        width: 100%;
     }
     .cajon {
         padding: 30px 5px;
+    }
+    .contenedor2 {
+        width: 100%;
     }
 }
 
